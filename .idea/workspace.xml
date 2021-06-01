@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f4fedcb-b94f-4b64-ad07-788dbb9cf984" name="Default Changelist" comment="6/1 11:44">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/car/CarWin.java" afterDir="false" />
+    <list default="true" id="7f4fedcb-b94f-4b64-ad07-788dbb9cf984" name="Default Changelist" comment="6/1 14:57">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/car/CarDemo.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/car/CarDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +42,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="223" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -72,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622519107902</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="6/1 14:57">
+      <created>1622530683876</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1622530683876</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -89,6 +99,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="6/1 11:12" />
     <MESSAGE value="6/1 11:44" />
-    <option name="LAST_COMMIT_MESSAGE" value="6/1 11:44" />
+    <MESSAGE value="6/1 14:57" />
+    <option name="LAST_COMMIT_MESSAGE" value="6/1 14:57" />
   </component>
 </project>

@@ -4,11 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f4fedcb-b94f-4b64-ad07-788dbb9cf984" name="Default Changelist" comment="6/1 14:57">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/car/CarDemo.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/car/CarDemo.java" afterDir="false" />
+    <list default="true" id="7f4fedcb-b94f-4b64-ad07-788dbb9cf984" name="Default Changelist" comment="6/1 15:54">
+      <change afterPath="$PROJECT_DIR$/src/main/java/HTML.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/net/Iester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test/Box.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test/Box1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test/Box2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test/Box3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test/Box4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test/Box5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test/Tester.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,11 +52,32 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="test" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CarDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tom.car.CarDemo" />
+      <module name="java2.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tom.car.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CarDemo" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -82,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622530683876</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="6/1 15:54">
+      <created>1622534110776</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1622534110776</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,11 +129,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="6/1 11:12" />
     <MESSAGE value="6/1 11:44" />
     <MESSAGE value="6/1 14:57" />
-    <option name="LAST_COMMIT_MESSAGE" value="6/1 14:57" />
+    <MESSAGE value="6/1 15:54" />
+    <option name="LAST_COMMIT_MESSAGE" value="6/1 15:54" />
   </component>
 </project>
